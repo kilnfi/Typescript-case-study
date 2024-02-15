@@ -1,4 +1,6 @@
 # Typescript Case Study
+Please send us your solution as a zip file or a link to a public git repository.
+It should contain a succinct report explaining your solution and thought process.
 
 # Exercise 1
 
