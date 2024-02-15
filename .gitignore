@@ -1,1 +1,7 @@
-/typescript-technical
+index.ts
+string.d.ts
+node_modules
+bun.lockb
+tsconfig.json
+package.json
+.idea
